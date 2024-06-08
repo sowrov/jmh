@@ -1,2 +1,2 @@
 # jmh
-Explore java microbenchmark harness
+Exploring java microbenchmark harness
